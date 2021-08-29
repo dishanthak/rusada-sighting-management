@@ -1,0 +1,140 @@
+<div class="card mt-2">
+    <div class="card-header">
+        <strong>{{ _pageTitle }}</strong> {{ _pageSubTitle }}
+        <button type="button" class="btn btn-outline-light btn-sm ms-3" data-bs-toggle="modal"
+            data-bs-target="#createModal" (click)="createClick()">
+            <i class="fas fa-plus"></i> New
+        </button>
+    </div>
+    <div class="card-body">
+        <ngx-spinner></ngx-spinner>
+
+        <div class="input-group">
+            <button class="btn btn-outline-light btn-outline-light-border" type="button" id="button-addon1"
+                data-toggle="tooltip" data-placement="top" title="Search" (click)="searchClick()"><i
+                    class="fas fa-search"></i></button>
+            <button class="btn btn-outline-light btn-outline-light-border" type="button" id="button-addon2"
+                data-toggle="tooltip" data-placement="top" title="Clear Search" (click)="clearSearchClick()">
+                <i class="fas fa-times"></i></button>
+            <input type="text" class="form-control" placeholder="Search text" [(ngModel)]="_keyword">
+        </div>
+
+        <div class="table-area">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            <button type="button" class="btn btn-outline-light btn-sm ms-4" data-toggle="tooltip"
+                                data-placement="top" title="Refresh" (click)="refreshClick()">
+                                <i class="fas fa-sync"></i>
+                            </button>
+                        </th>
+                        <th>Make</th>
+                        <th>Model</th>
+                        <th>Registration</th>
+                        <th>Location</th>
+                        <th>Date and Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let item of _sightings">
+                        <td>
+
+                            <button type="button" class="btn btn-outline-light btn-sm ms-4" data-bs-toggle="modal"
+                                data-bs-target="#viewModal" data-toggle="tooltip" data-placement="top" title="View"
+                                (click)="viewClick(item)"><i class="far fa-eye"></i></button>
+
+                            <button type="button" class="btn btn-outline-light btn-sm ms-4" data-bs-toggle="modal"
+                                data-bs-target="#editModal" data-toggle="tooltip" data-placement="top" title="Edit"
+                                (click)="editClick(item)"><i class="far fa-edit"></i></button>
+
+                            <button type="button" class="btn btn-outline-light btn-sm ms-4" data-bs-toggle="modal"
+                                data-bs-target="#deleteModal" data-toggle="tooltip" data-placement="top" title="Delete"
+                                (click)="deleteClick(item)"><i class="far fa-trash-alt"></i></button>
+
+                        </td>
+                        <td>{{item.make}}</td>
+                        <td>{{item.model}}</td>
+                        <td>{{item.registration}}</td>
+                        <td>{{item.location}}</td>
+                        <td>{{item.dateAndTime | date: 'dd/MM/yyyy, h:mm a'}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="modal fade" id="viewModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">View Sighting</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"
+                    #id_viewSightingCloseButton (click)="viewSightingModalCloseEventHandler()"></button>
+            </div>
+            <div class="modal-body">
+                <dishantha-view-sighting [selectedSightingId]="_id_view_data" #id_viewSighting
+                    (viewSightingModalCloseEvent)="viewSightingModalCloseEventHandler()">
+                </dishantha-view-sighting>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="createModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Create Sighting</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"
+                    #id_createSightingCloseButton (click)="createSightingModalCloseEventHandler()"></button>
+            </div>
+            <div class="modal-body">
+                <dishantha-create-sighting #id_createSighting
+                    (createSightingModalCloseEvent)="createSightingModalCloseEventHandler()"
+                    (sightingCreatedEvent)="sightingCreatedEventEventHandler()"></dishantha-create-sighting>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="editModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Edit Sighting</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"
+                    #id_editSightingCloseButton (click)="editSightingModalCloseEventHandler()"></button>
+            </div>
+            <div class="modal-body">
+                <dishantha-edit-sighting [selectedSightingId]="_id_edit_data" #id_editSighting
+                    (editSightingModalCloseEvent)="editSightingModalCloseEventHandler()"
+                    (sightingEditedEvent)="sightingEditedEventEventHandler()">
+                </dishantha-edit-sighting>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="deleteModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Confirm Record Delete</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"
+                    #id_deleteSightingCloseButton (click)="deleteSightingModalCloseEventHandler()"></button>
+            </div>
+            <div class="modal-body">
+                Are you sure you want to delete?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-light btn-outline-light-border-fill" (click)="deleteConfirmed()">Ok</button>
+                <button type="button" class="btn btn-outline-light"
+                    (click)="deleteSightingModalCloseEventHandler()">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>

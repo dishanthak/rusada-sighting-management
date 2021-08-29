@@ -1,0 +1,136 @@
+.top-bar {
+  height: 45px;
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  background: #875a7b;
+  z-index: 1000;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.app-brand {
+  color: #ffffff !important;
+}
+
+.card-header {
+    padding: .2rem 1rem !important;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.btn-outline-light {
+    color: #6c757d !important;
+}
+
+.table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.table > thead > tr > th {
+  text-align: left;
+  padding: 0.2rem 0.2rem !important;
+  border: 1px solid #e9ecef;
+  border-width: 0 0 1px 0;
+  font-weight: 600;
+  color: #000000;
+  background: #e7dfe5;
+  transition: box-shadow 0.2s;
+  vertical-align: text-top !important;
+}
+
+.table > tbody > tr > td {
+  padding: 0.1rem 0.1rem;
+  vertical-align: text-top;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0rem !important;
+}
+
+.btn-outline-light {
+  color: #875a7b !important;
+  border-color: transparent !important;
+  font-weight: 600;
+}
+
+.btn-outline-light-border {
+  color: #875a7b !important;
+  border-color: #ced4da !important;
+  font-weight: 600 !important;
+}
+
+.btn-outline-light-border-fill {
+  color: #ffffff !important;
+  border-color: #ced4da !important;
+  font-weight: 600 !important;
+  background-color: #875a7b !important;
+}
+
+.btn-outline-light:hover {
+  color: #ffffff !important;;
+  background-color: #875a7b !important;;
+  border-color: #f8f9fa !important;;
+}
+
+.modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  pointer-events: auto;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0,0,0,.2);
+  border-radius: 0rem !important; 
+  outline: 0;
+}
+
+.modal-header {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.4rem 1rem !important;
+  border-bottom: 1px solid #dee2e6;
+  border-radius: 0rem !important;   
+  background-color: #875a7b !important;
+  color: #ffffff !important;
+  font-size: medium !important;
+}
+
+tbody, td, tfoot, th, thead, tr {
+  border-color: inherit;
+  border-style: none !important;
+  border-width: 0;
+}
+.card-body {
+  flex: 1 1 auto;
+  padding: 1rem 0rem !important;
+}
+
+.card-header {
+  padding: .2rem 1rem !important;
+  margin-bottom: 0;
+  background: #E2D7DF !important;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+  color: #875a7b;
+}
+
+.btn {  
+  border-radius: 0rem !important;  
+}
+
+.form-control {
+  border-radius: 0rem !important;  
+}

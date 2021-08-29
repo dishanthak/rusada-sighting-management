@@ -1,0 +1,47 @@
+<div class="row">
+
+    <form [formGroup]="_form">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <div class="mb-3">
+                        <label for="make" class="form-label">Make</label>
+                        <input type="text" class="form-control" id="make" formControlName="make">
+                    </div>
+                    <div class="mb-3">
+                        <label for="model" class="form-label">Model</label>
+                        <input type="text" class="form-control" id="model" formControlName="model">
+                    </div>
+                    <div class="mb-3">
+                        <label for="registration" class="form-label">Registration</label>
+                        <input type="text" class="form-control" id="registration" formControlName="registration">
+                    </div>
+                    <div class="mb-3">
+                        <label for="location" class="form-label">Location</label>
+                        <input type="text" class="form-control" id="location" formControlName="location">
+                    </div>
+                    <div class="mb-3">
+                        <label for="dateAndTime" class="form-label">Date And Time</label>
+                        <input type="datetime-local" max="now();" class="form-control" id="dateAndTime"
+                            formControlName="dateAndTime">
+                    </div>
+
+                </div>
+                <div class="col-6">
+                    <div class="mb-3">
+                        <label for="dateAndTime" class="form-label">Aircraft Photo</label>
+                        <img [src]="_aircraftPhoto" height="380px;" width="348px;"
+                            style="border: 1px solid #ced4da"><br>
+                    </div>
+                </div>
+            </div>
+
+            <button type="button" class="btn btn-outline-light btn-outline-light-border btn-outline-light-border-fill"
+                (click)="closeClick()">Close</button>
+
+        </div>
+
+    </form>
+
+</div>

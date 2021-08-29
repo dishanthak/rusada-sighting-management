@@ -1,0 +1,69 @@
+<div class="row">
+
+    <form [formGroup]="_form">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <div class="mb-3">
+                        <label for="make" class="form-label">Make</label>
+                        <input type="text" class="form-control" id="make" formControlName="make">
+                        <ui-validation-message [control]="_form.get('make')">
+                        </ui-validation-message>
+                    </div>
+                    <div class="mb-3">
+                        <label for="model" class="form-label">Model</label>
+                        <input type="text" class="form-control" id="model" formControlName="model">
+                        <ui-validation-message [control]="_form.get('model')">
+                        </ui-validation-message>
+                    </div>
+                    <div class="mb-3">
+                        <label for="registration" class="form-label">Registration</label>
+                        <input type="text" class="form-control" id="registration" formControlName="registration">
+                        <ui-validation-message [control]="_form.get('registration')">
+                        </ui-validation-message>
+                    </div>
+                    <div class="mb-3">
+                        <label for="location" class="form-label">Location</label>
+                        <input type="text" class="form-control" id="location" formControlName="location">
+                        <ui-validation-message [control]="_form.get('location')">
+                        </ui-validation-message>
+                    </div>
+                    <div class="mb-3">
+                        <label for="dateAndTime" class="form-label">Date And Time</label>
+                        <input type="datetime-local" max="now();" class="form-control" id="dateAndTime"
+                            formControlName="dateAndTime">
+                        <ui-validation-message [control]="_form.get('dateAndTime')">
+                        </ui-validation-message>
+                    </div>
+
+
+                </div>
+                <div class="col-6">
+                    <div class="mb-3">
+                        <label for="dateAndTime" class="form-label">Aircraft Photo</label>
+                        <img [src]="_aircraftPhoto" height="348px;" width="348px;"
+                            style="border: 1px solid #ced4da"><br>
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-light btn-outline-light-border" type="button"
+                                id="button-addon2" data-toggle="tooltip" data-placement="top" title="Clear Search"
+                                (click)="clearPhotoClick()">
+                                <i class="fas fa-times"></i></button>
+                            <input class="form-control" type="file" formControlName="aircraftPhoto"
+                                accept="image/gif, image/jpeg, image/png" (change)="loadImage($event.target.files)" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-outline-light btn-outline-light-border-fill"
+                (click)="saveClick()">Save</button>
+            <button type="button" class="btn btn-outline-light ms-3"
+                (click)="resetClick()">Reset</button>
+            <button type="button" class="btn btn-outline-light ms-3"
+                (click)="closeClick()">Close</button>
+
+        </div>
+    </form>
+
+</div>

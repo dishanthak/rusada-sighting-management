@@ -1,0 +1,1 @@
+export { IBaseModel, BaseModel } from './base.model';

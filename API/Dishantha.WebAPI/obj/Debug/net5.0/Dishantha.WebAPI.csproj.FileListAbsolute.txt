@@ -1,0 +1,261 @@
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\appsettings.json
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.exe
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.deps.json
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.runtimeconfig.json
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.runtimeconfig.dev.json
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\ref\Dishantha.WebAPI.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.Views.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.Views.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.AssemblyInfoInputs.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.AssemblyInfo.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.csproj.CoreCompileInputs.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorAssemblyInfo.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorAssemblyInfo.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\staticwebassets\Dishantha.WebAPI.StaticWebAssets.Manifest.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\staticwebassets\Dishantha.WebAPI.StaticWebAssets.xml
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Dishantha.WebAPI.styles.css
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.TagHelpers.input.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.TagHelpers.output.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorCoreGenerate.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorTargetAssemblyInfo.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorTargetAssemblyInfo.cs
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.Views.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\ref\Dishantha.WebAPI.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.genruntimeconfig.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.csproj.CopyComplete
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.csprojAssemblyReference.cache
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Humanizer.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Domain.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Persistence.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Persistence.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Domain.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Application.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Application.pdb
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Developments\Test\Dishantha\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\appsettings.json
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.exe
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.deps.json
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.runtimeconfig.json
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.runtimeconfig.dev.json
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\ref\Dishantha.WebAPI.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.Views.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.Views.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Humanizer.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Application.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Domain.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Persistence.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Application.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Persistence.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Domain.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.csprojAssemblyReference.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.AssemblyInfoInputs.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.AssemblyInfo.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.csproj.CoreCompileInputs.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorAssemblyInfo.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorAssemblyInfo.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\staticwebassets\Dishantha.WebAPI.StaticWebAssets.Manifest.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\staticwebassets\Dishantha.WebAPI.StaticWebAssets.xml
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Dishantha.WebAPI.styles.css
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.TagHelpers.input.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.TagHelpers.output.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorCoreGenerate.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorTargetAssemblyInfo.cache
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorTargetAssemblyInfo.cs
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.Views.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.csproj.CopyComplete
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\ref\Dishantha.WebAPI.dll
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.pdb
+E:\My Developments\Test\Dishantha\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.genruntimeconfig.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\appsettings.json
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.exe
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.deps.json
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.runtimeconfig.json
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.runtimeconfig.dev.json
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\ref\Dishantha.WebAPI.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.Views.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.WebAPI.Views.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Humanizer.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Application.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Domain.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Persistence.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Application.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Persistence.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\bin\Debug\net5.0\Dishantha.Domain.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.csprojAssemblyReference.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.AssemblyInfoInputs.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.AssemblyInfo.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.csproj.CoreCompileInputs.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorAssemblyInfo.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorAssemblyInfo.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\staticwebassets\Dishantha.WebAPI.StaticWebAssets.Manifest.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\staticwebassets\Dishantha.WebAPI.StaticWebAssets.xml
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Dishantha.WebAPI.styles.css
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.TagHelpers.input.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.TagHelpers.output.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorCoreGenerate.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorTargetAssemblyInfo.cache
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.RazorTargetAssemblyInfo.cs
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.Views.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.csproj.CopyComplete
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\ref\Dishantha.WebAPI.dll
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.pdb
+E:\My Developments\Test\Rusada final\API\Dishantha.WebAPI\obj\Debug\net5.0\Dishantha.WebAPI.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\My Developments\Test\Dishantha\Dishantha.Domain\bin\Debug\net5.0\Dishantha.Core.deps.json
+E:\My Developments\Test\Dishantha\Dishantha.Domain\bin\Debug\net5.0\Dishantha.Core.dll
+E:\My Developments\Test\Dishantha\Dishantha.Domain\bin\Debug\net5.0\ref\Dishantha.Core.dll
+E:\My Developments\Test\Dishantha\Dishantha.Domain\bin\Debug\net5.0\Dishantha.Core.pdb
+E:\My Developments\Test\Dishantha\Dishantha.Domain\obj\Debug\net5.0\Dishantha.Core.csprojAssemblyReference.cache
+E:\My Developments\Test\Dishantha\Dishantha.Domain\obj\Debug\net5.0\Dishantha.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Developments\Test\Dishantha\Dishantha.Domain\obj\Debug\net5.0\Dishantha.Core.AssemblyInfoInputs.cache
+E:\My Developments\Test\Dishantha\Dishantha.Domain\obj\Debug\net5.0\Dishantha.Core.AssemblyInfo.cs
+E:\My Developments\Test\Dishantha\Dishantha.Domain\obj\Debug\net5.0\Dishantha.Core.csproj.CoreCompileInputs.cache
+E:\My Developments\Test\Dishantha\Dishantha.Domain\obj\Debug\net5.0\Dishantha.Core.dll
+E:\My Developments\Test\Dishantha\Dishantha.Domain\obj\Debug\net5.0\ref\Dishantha.Core.dll
+E:\My Developments\Test\Dishantha\Dishantha.Domain\obj\Debug\net5.0\Dishantha.Core.pdb
