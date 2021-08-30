@@ -7,15 +7,19 @@ namespace Dishantha.Application.Sightings.Requests
     public class UpdateSightingRequest : BaseUpdateRequest
     {
         [Required]
+        [StringLength(128, ErrorMessage = "Maximum length cannot exceed 128 Characters")]
         public string Make { get; set; }
 
         [Required]
+        [StringLength(128, ErrorMessage = "Maximum length cannot exceed 128 Characters")]
         public string Model { get; set; }
 
         [Required]
+        [RegularExpression(@"^[a-zA-Z]{1,2}-[a-zA-Z]{1,5}$$", ErrorMessage = "Missed match the pattern")]
         public string Registration { get; set; }
 
         [Required]
+        [StringLength(255, ErrorMessage = "Maximum length cannot exceed 255 Characters")]
         public string Location { get; set; }
 
         [Required]

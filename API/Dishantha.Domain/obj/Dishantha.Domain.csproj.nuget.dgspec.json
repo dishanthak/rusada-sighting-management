@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Domain\\Dishantha.Domain.csproj": {}
+    "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Domain\\Dishantha.Domain.csproj": {}
   },
   "projects": {
-    "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Domain\\Dishantha.Domain.csproj": {
+    "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Domain\\Dishantha.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Domain\\Dishantha.Domain.csproj",
+        "projectUniqueName": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Domain\\Dishantha.Domain.csproj",
         "projectName": "Dishantha.Domain",
-        "projectPath": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Domain\\Dishantha.Domain.csproj",
+        "projectPath": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Domain\\Dishantha.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Domain\\obj\\",
+        "outputPath": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

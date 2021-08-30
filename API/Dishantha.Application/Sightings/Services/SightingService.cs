@@ -9,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -40,10 +41,13 @@ namespace Dishantha.Application.Sightings.Services
             var entity = await _repository.GetByIdAsync(id);
             var dto = _mapper.Map<SightingDTO>(entity);
 
-            if (entity.AircraftPhotoName != null)
+            if (!String.IsNullOrEmpty(entity.AircraftPhotoName))
             {
-                byte[] imageArray = System.IO.File.ReadAllBytes(System.IO.Path.Combine(_env.ContentRootPath + "\\" + "AircraftPhotos", entity.AircraftPhotoName));
-                dto.AircraftPhoto = String.Format("data:image/png;base64,{0}", Convert.ToBase64String(imageArray));
+                if (File.Exists(System.IO.Path.Combine(_env.ContentRootPath + "\\" + "AircraftPhotos", entity.AircraftPhotoName)))
+                {
+                    byte[] imageArray = System.IO.File.ReadAllBytes(System.IO.Path.Combine(_env.ContentRootPath + "\\" + "AircraftPhotos", entity.AircraftPhotoName));
+                    dto.AircraftPhoto = String.Format("data:image/png;base64,{0}", Convert.ToBase64String(imageArray));
+                }                    
             }
 
             return dto;
@@ -51,12 +55,14 @@ namespace Dishantha.Application.Sightings.Services
 
         public async Task<SightingDTO> AddAsync(CreateSightingRequest request)
         {
-
-            var imageParts = request.AircraftPhoto.Split(',').ToList<string>();
-            Image aircraftPhoto = Base64ToImage.ConvertToImage(imageParts[1]);
             var aircraftPhotoURL = string.Empty;
-            if (aircraftPhoto != null)
-                aircraftPhotoURL = SaveImage(aircraftPhoto);
+            var imageParts = request.AircraftPhoto.Split(',').ToList<string>();
+            if(imageParts.Count > 1)
+            {
+                Image aircraftPhoto = Base64ToImage.ConvertToImage(imageParts[1]);                
+                if (aircraftPhoto != null)
+                    aircraftPhotoURL = SaveImage(aircraftPhoto);                
+            }
 
             var entity = _mapper.Map<Sighting>(request);
             entity.AircraftPhotoName = aircraftPhotoURL;
@@ -69,11 +75,14 @@ namespace Dishantha.Application.Sightings.Services
         public async Task<SightingDTO> UpdateAsync(UpdateSightingRequest request)
         {
 
-            var imageParts = request.AircraftPhoto.Split(',').ToList<string>();
-            Image aircraftPhoto = Base64ToImage.ConvertToImage(imageParts[1]);
             var aircraftPhotoURL = string.Empty;
-            if (aircraftPhoto != null)
-                aircraftPhotoURL = SaveImage(aircraftPhoto);
+            var imageParts = request.AircraftPhoto.Split(',').ToList<string>();
+            if (imageParts.Count > 1)
+            {
+                Image aircraftPhoto = Base64ToImage.ConvertToImage(imageParts[1]);
+                if (aircraftPhoto != null)
+                    aircraftPhotoURL = SaveImage(aircraftPhoto);
+            }
 
             var entity = _mapper.Map<Sighting>(request);
             entity.AircraftPhotoName = aircraftPhotoURL;

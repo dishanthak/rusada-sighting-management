@@ -5820,11 +5820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Persistence\\Dishantha.Persistence.csproj",
+      "projectUniqueName": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Persistence\\Dishantha.Persistence.csproj",
       "projectName": "Dishantha.Persistence",
-      "projectPath": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Persistence\\Dishantha.Persistence.csproj",
+      "projectPath": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Persistence\\Dishantha.Persistence.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Persistence\\obj\\",
+      "outputPath": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5844,8 +5844,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Domain\\Dishantha.Domain.csproj": {
-              "projectPath": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Domain\\Dishantha.Domain.csproj"
+            "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Domain\\Dishantha.Domain.csproj": {
+              "projectPath": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Domain\\Dishantha.Domain.csproj"
             }
           }
         }

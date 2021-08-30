@@ -6242,11 +6242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.WebAPI\\Dishantha.WebAPI.csproj",
+      "projectUniqueName": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.WebAPI\\Dishantha.WebAPI.csproj",
       "projectName": "Dishantha.WebAPI",
-      "projectPath": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.WebAPI\\Dishantha.WebAPI.csproj",
+      "projectPath": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.WebAPI\\Dishantha.WebAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.WebAPI\\obj\\",
+      "outputPath": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6266,11 +6266,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Application\\Dishantha.Application.csproj": {
-              "projectPath": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Application\\Dishantha.Application.csproj"
+            "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Application\\Dishantha.Application.csproj": {
+              "projectPath": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Application\\Dishantha.Application.csproj"
             },
-            "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Persistence\\Dishantha.Persistence.csproj": {
-              "projectPath": "E:\\My Developments\\Test\\Rusada final\\API\\Dishantha.Persistence\\Dishantha.Persistence.csproj"
+            "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Persistence\\Dishantha.Persistence.csproj": {
+              "projectPath": "E:\\My Developments\\Test\\Rusada final\\rusada-sighting-management\\API\\Dishantha.Persistence\\Dishantha.Persistence.csproj"
             }
           }
         }
