@@ -114,11 +114,16 @@ export class ViewSightingComponent implements OnInit {
       dateAndTime: this._sighting.dateAndTime,
     });
 
-    this._aircraftPhoto = this._sighting.aircraftPhoto;
+    if (
+      this._sighting.aircraftPhoto != null &&
+      this._sighting.aircraftPhoto != '' &&
+      this._sighting.aircraftPhoto != 'undefined'
+    )
+      this._aircraftPhoto = this._sighting.aircraftPhoto;
+    else this._aircraftPhoto = '../../../assets/images/aircraft-photo.png';
   }
 
-  closeClick(){
+  closeClick() {
     this.viewSightingModalCloseEvent.emit();
   }
-
 }
