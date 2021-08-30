@@ -14,7 +14,7 @@ namespace Dishantha.Application.Sightings.Requests
         public string Model { get; set; }
 
         [Required]
-        [RegularExpression(@"^[a-zA-Z]{1,2}-[a-zA-Z]{1,5}$$", ErrorMessage = "Missed match the pattern")]
+        [RegularExpression(@"^[a-zA-Z]{1,2}-[a-zA-Z]{1,5}$", ErrorMessage = "Missed match the pattern")]
         public string Registration { get; set; }
 
         [Required]
