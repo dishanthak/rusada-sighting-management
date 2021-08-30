@@ -10,5 +10,5 @@ API
 
 Client
 
-Run "npm install" command - Dishantha.WebAngular
-Run "ng serve --open" command - Dishantha.WebAngular
+1. Run "npm install" command - Dishantha.WebAngular
+2. Run "ng serve --open" command - Dishantha.WebAngular
